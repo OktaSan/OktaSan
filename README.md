@@ -1,13 +1,11 @@
-## Hi there 👋
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<!--
-**OktaSan/OktaSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Oktasann 👋
 
-Here are some ideas to get you started:
+I am a computer science student with a passion for coding, always eager to learn and grow in the world of programming. I love exploring the world of cyber scurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+## 🌟 About Me:
+- 🎓 I'm currently studying **Department Informatics** at Universitas Internasional Semen Indonesia.
+- 🚀 I’m focused on developing my skills in **cybersecurity** and **machine learning**.
+- 🌱 I’m currently learning **Java**, **Python**, and diving deeper into **GitHub**.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
