@@ -12,7 +12,7 @@ Here are some of my recent projects:
 1. **Encryption & Decrypt** - Basic Kriptografi.  
    _[Check out the repository](https://github.com/OktaSan/encryption-decrypt.git)_
 
-2. **Basic Python Language** - Basic Kriptografi.  
+2. **Basic Python Language** - Basic Pyhton Language.  
    _[Check out the repository](https://github.com/OktaSan/Python-Learning-Basic.git)_
 
    ## 🛠️ My Skills:
