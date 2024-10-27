@@ -22,6 +22,6 @@ Here are some of my recent projects:
 ---
 
 ## 📱 Social Media:
-🔗 [LinkedIn](https://www.linkedin.com/in/okta-putra-ramadhan-61311328b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+🔗 You can find me on [LinkedIn](https://www.linkedin.com/in/okta-putra-ramadhan-61311328b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app). 
 
 Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
