@@ -1,26 +1,42 @@
-## Hi there, I'm Oktasann 👋
+<h1 align="center">Hi there, I'm Oktasann! 👋</h1>
 
-I am a computer science student with a passion for coding, always eager to learn and grow in the world of programming. I love exploring the world of cyber scurity
+<p align="center">
+  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="200" alt="Coding GIF">
+</p>
+
+<p align="center">
+  I am a computer science student with a passion for coding, always eager to learn and grow in the world of programming. I love exploring the world of cybersecurity.
+</p>
+
+---
 
 ## 🌟 About Me:
 - 🎓 I'm currently studying **Department Informatics** at Universitas Internasional Semen Indonesia.
 - 🚀 I’m focused on developing my skills in **cybersecurity** and **machine learning**.
 - 🌱 I’m currently learning **Java**, **Python**, and diving deeper into **GitHub**.
 
+---
+
 ## 💼 Latest Projects:
 Here are some of my recent projects:
 1. **Encryption & Decrypt** - Basic Kriptografi.  
    _[Check out the repository](https://github.com/OktaSan/encryption-decrypt.git)_
 
-2. **Basic Python Language** - Basic Pyhton Language.  
+2. **Basic Python Language** - Basic Python Language.  
    _[Check out the repository](https://github.com/OktaSan/Python-Learning-Basic.git)_
 
-2. **Basic JavaScripts Language** - Basic JavaScripts Language.  
-_[Check out the repository](https://github.com/OktaSan/Basic-Javascripts.git)_
+3. **Basic JavaScripts Language** - Basic JavaScripts Language.  
+   _[Check out the repository](https://github.com/OktaSan/Basic-Javascripts.git)_
 
-   ## 🛠️ My Skills:
+---
+
+## 🛠️ My Skills:
 - **Languages:**  
- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tP8h8cH1daQv3aI/giphy.gif" width="300" alt="Skills GIF">
+</p>
 
 ---
 
@@ -29,5 +45,10 @@ _[Check out the repository](https://github.com/OktaSan/Basic-Javascripts.git)_
 
 ▶️ You can find me on [YouTube Channel](https://www.youtube.com/@OktaSann).
 
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcnoD9hB0AxNug0/giphy.gif" width="300" alt="Social Media GIF">
+</p>
+
+---
 
 Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
