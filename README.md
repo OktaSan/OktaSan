@@ -15,6 +15,9 @@ Here are some of my recent projects:
 2. **Basic Python Language** - Basic Pyhton Language.  
    _[Check out the repository](https://github.com/OktaSan/Python-Learning-Basic.git)_
 
+2. **Basic JavaScripts Language** - Basic JavaScripts Language.  
+_[Check out the repository](https://github.com/OktaSan/Basic-Javascripts.git)_
+
    ## 🛠️ My Skills:
 - **Languages:**  
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
