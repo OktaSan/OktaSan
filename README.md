@@ -51,4 +51,11 @@ Here are some of my recent projects:
 
 ---
 
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=OktaSan&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OktaSan&theme=radical&layout=compact)
+![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=OktaSan&theme=react-dark)
+
+
 Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
