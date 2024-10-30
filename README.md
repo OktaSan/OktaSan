@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Oktasann! 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="200" alt="Coding GIF">
-</p>
-
-<p align="center">
   I am a computer science student with a passion for coding, always eager to learn and grow in the world of programming. I love exploring the world of cybersecurity.
 </p>
 
@@ -34,20 +30,12 @@ Here are some of my recent projects:
 - **Languages:**  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tP8h8cH1daQv3aI/giphy.gif" width="300" alt="Skills GIF">
-</p>
-
 ---
 
 ## 📱 Social Media:
 🔗 You can find me on [LinkedIn](https://www.linkedin.com/in/okta-putra-ramadhan-61311328b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app). 
 
 ▶️ You can find me on [YouTube Channel](https://www.youtube.com/@OktaSann).
-
-<p align="center">
-  <img src="[https://media.giphy.com/media/xUPGcnoD9hB0AxNug0/giphy.gif" width="300" alt="Social Media GIF](https://pin.it/616uJgQSk)">
-</p>
 
 ---
 
