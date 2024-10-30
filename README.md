@@ -46,7 +46,7 @@ Here are some of my recent projects:
 ▶️ You can find me on [YouTube Channel](https://www.youtube.com/@OktaSann).
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcnoD9hB0AxNug0/giphy.gif" width="300" alt="Social Media GIF">
+  <img src="[https://media.giphy.com/media/xUPGcnoD9hB0AxNug0/giphy.gif" width="300" alt="Social Media GIF](https://pin.it/616uJgQSk)">
 </p>
 
 ---
@@ -55,7 +55,6 @@ Here are some of my recent projects:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=OktaSan&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OktaSan&theme=radical&layout=compact)
-![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=OktaSan&theme=react-dark)
 
 
 Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
