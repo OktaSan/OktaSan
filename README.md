@@ -16,7 +16,7 @@
 ## 💼 Latest Projects:
 Here are some of my recent projects:
 1. **Encryption & Decrypt** - Basic Kriptografi.  
-   _[Check out the repository](https://github.com/OktaSan/encryption-decrypt.git)_
+   _[Check out the repository](https://github.com/OktaSan/encryption-decrypt.git)_(https://github.com/OktaSan/Basic-Javascripts/tree/main/LatihanTugas) - Latihan Javascripts.
 
 2. **Basic Python Language** - Basic Python Language.  
    _[Check out the repository](https://github.com/OktaSan/Python-Learning-Basic.git)_
