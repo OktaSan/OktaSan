@@ -29,8 +29,11 @@ Here are some of my recent projects:
 
 ## 🤔 PRACTICE QUESTIONS:
 Here are some practice questions:
-1. **JavaScripts** - Practice Questions Javascripts.
+1. **JavaScripts** - Practice Questions 1 Javascripts.
    - _[Check out the folder](https://github.com/OktaSan/Basic-Javascripts/tree/b1c2946fa174161900407c1e9546be55a2f146f1/LatihanTugas)_
+
+1. **JavaScripts** - Practice Questions 2 Javascripts.
+   - _[Check out the folder](https://github.com/OktaSan/Basic-Javascripts/tree/785584c469b54ec8138133e1770cb4a1c4577af3/Latihan/2.%20Latihan)_
      
 ---
 
