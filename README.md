@@ -13,6 +13,13 @@
 
 ---
 
+## 📈 Progress:
+Here are my ongoing progress repositories:
+1. **Python Progress Log** - Repository to track my Python learning journey.  
+   _[Check out the repository](https://github.com/OktaSan/python-progress-log.git)_
+
+---
+
 ## 💼 Latest Projects:
 Here are some of my recent projects:
 1. **Encryption & Decrypt** - Basic Kriptografi.  
