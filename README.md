@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Okta Putra Ramadhan! 👋</h1>
 
 <p align="center">
-  I am a computer science student with a passion for coding, always eager to learn and grow in the world of programming. I love exploring the world of cybersecurity.
+  I am a computer science student with a passion for coding, always eager to learn and grow in the world of programming. I love exploring the world of cybersecurity and AI.
 </p>
 
 ---
